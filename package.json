@@ -8,8 +8,20 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@material-ui/styles": "^4.10.0",
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "chartjs": "^0.3.24",
+    "lottie": "0.0.1",
     "next": "9.5.3",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-share": "^4.3.0",
+    "react-slideshow-image": "^3.3.0",
+    "treejs": "^0.6.2"
   }
 }
